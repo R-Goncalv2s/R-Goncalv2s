@@ -8,7 +8,7 @@
 </div>
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,c,py,php,git,mysql)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,py,php,git,mysql)
 
 ##
 
