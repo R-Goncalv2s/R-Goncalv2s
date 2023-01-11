@@ -10,12 +10,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,c,py,php,git,mysql)
 
-##
-
-<br>
-<div> 
-  <a href = "mailto:rafaelagoncalves0011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaela-gon%C3%A7alves-22b9a3243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 
   
   ![Snake animation](https://github.com/R-Goncalv2s/R-Goncalv2s/blob/output/github-contribution-grid-snake.svg)
  
